@@ -10,6 +10,7 @@ def test(*msg):
 
 test("apple", "Alen", "Ann")
 
+#test font
 
 test([1, 2, 3])
 
